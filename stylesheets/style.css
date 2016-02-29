@@ -1,7 +1,6 @@
-.profileimage {
-	width: 300px;
-	height: 300px;
-	border-radius: 50%;
-	background-position: center center;
-	background-size: cover;
+.img-circle {
+	border-radius: 60%
+	width: 400px;
+	height: 400px;
 }
+
