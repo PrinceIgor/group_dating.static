@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <<<<<<< HEAD
 .navbar-default {
     background-color: transparent;
@@ -11,15 +11,14 @@
 
 }
 
-=======
 .img-oval {
-	border-radius: 70%;
-	width: 400px;
-	height: 400px;
+	width: 300px;
+  	height: 300px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 150px;
+	margin-top: 100px;
+	border-radius: 40%;
 }
 
 >>>>>>> diane
