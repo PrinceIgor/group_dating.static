@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .navbar-default {
     background-color: transparent;
 }
@@ -11,7 +10,6 @@
 
 }
 
-=======
 .img-oval {
 	border-radius: 70%;
 	width: 400px;
@@ -22,14 +20,9 @@
 	margin-top: 150px;
 }
 
->>>>>>> diane
 .walk {
 	border-radius: 60%;
-	width: 100px;
-	height: 100px;
+	width: 300px;
+	height: 250px;
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 150px;
-
 }
